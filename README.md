@@ -1,5 +1,4 @@
-"# decentralized-app" git init git add README.md
-"# decentralized-app"
+
 
 ***
 Group Project For 1st year 2nd Semester Internet And Webtechnology Project
